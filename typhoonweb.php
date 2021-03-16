@@ -1,6 +1,6 @@
 <? 
 // 	Last Session Request Lite
-// 	GitHub TyphoonWeb https://github.com/typhoonweb
+// 	https://github.com/typhoonweb/Last-Session-Request-Lite
 // 	Indicate the definitions you want to save from the bottom.. ( $_SERVER['REMOTE_ADDR'], $_SERVER['REMOTE_PORT'] ... )
 // 	Do not forget to change the recording address (record.typhoonweb). You can create an address, preferably with complex numbers, special characters, numbers.
 // 	WARNING: Please send a notification to your users during use! Depending on where you live, this Last Session Request Lite may be prohibited by law. Be careful before use!
