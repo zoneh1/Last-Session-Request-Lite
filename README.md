@@ -123,7 +123,7 @@
 ```php
 'REQUEST_URI'
 ```
-For more: [For more](https://www.php.net/manual/en/reserved.variables.server.php)
+[For more..](https://www.php.net/manual/en/reserved.variables.server.php)
 
 # Note
 - Sum of an estimated and average record line: Between 150 and 250 bytes.
