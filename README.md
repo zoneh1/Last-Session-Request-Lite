@@ -1,3 +1,5 @@
+![cover__](https://user-images.githubusercontent.com/69988594/111388560-8ea5b780-86c0-11eb-9f39-87d91338d14a.png)
+
 # Last Session Request Lite
 - Saves Last Session Requests for php and slows down unwanted connections. It has additional measures. 
 
